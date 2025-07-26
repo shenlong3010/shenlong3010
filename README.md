@@ -4,7 +4,7 @@
 **shenlong2010/shenlong2010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## I'm working as software engineer in Chase
+## I'm working as software engineer at Chase
 
 - 🔭 I code everyday
 - 🌱 I'm willing to learn anything by the way
